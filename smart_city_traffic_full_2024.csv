@@ -1,0 +1,368 @@
+violation_id,date,time,city,road_name,violation_type,vehicle_type,fine_amount,repeat_offender,weather,accident_occurred,accident_id,severity,vehicles_involved,weather_acc,fatalities,temperature_c,weather_weather,rainfall_mm
+V0001,01-01-2024,04:47,Chennai,OMR Road,Wrong Side,Bus,1000,Yes,weather,Yes,A0001,High,4,Rain,2,23,Fog,0
+V0002,02-01-2024,13:04,Chennai,Anna Salai,Drunk Driving,Car,10000,No,weather,No,,,,,,26,Clear,0
+V0003,03-01-2024,05:22,Bengaluru,Whitefield Road,No Seatbelt,Bike,1000,Yes,weather,Yes,,,,,,24,Rain,0
+V0004,04-01-2024,23:38,Bengaluru,Outer Ring Road,Speeding,Truck,2000,No,weather,No,,,,,,29,Fog,0
+V0005,05-01-2024,12:08,Delhi,Outer Ring Road,No Helmet,Bus,500,Yes,weather,No,,,,,,23,Fog,19
+V0006,06-01-2024,23:16,Bengaluru,Outer Ring Road,Drunk Driving,Truck,10000,Yes,weather,Yes,,,,,,14,Rain,0
+V0007,07-01-2024,06:21,Mumbai,Link Road,No Seatbelt,Auto,1000,No,weather,No,,,,,,33,Clear,0
+V0008,08-01-2024,03:05,Bengaluru,Whitefield Road,Wrong Side,Bus,1000,No,weather,No,,,,,,27,Rain,0
+V0009,09-01-2024,12:15,Chennai,Mount Road,No Helmet,Car,500,Yes,weather,No,,,,,,26,Clear,0
+V0010,10-01-2024,22:13,Mumbai,Western Express Highway,Signal Jump,Auto,1500,No,weather,Yes,,,,,,18,Clear,0
+V0011,11-01-2024,19:33,Delhi,Ring Road,Wrong Side,Car,1000,No,weather,Yes,,,,,,37,Rain,0
+V0012,12-01-2024,18:42,Chennai,Anna Salai,Speeding,Auto,2000,Yes,weather,No,,,,,,15,Fog,0
+V0013,13-01-2024,23:00,Mumbai,SV Road,Signal Jump,Auto,1500,No,weather,Yes,,,,,,36,Clear,32
+V0014,14-01-2024,03:56,Delhi,Ring Road,Wrong Side,Bike,1000,No,weather,No,,,,,,38,Rain,0
+V0015,15-01-2024,21:24,Mumbai,SV Road,Wrong Side,Bike,1000,Yes,weather,No,,,,,,17,Fog,0
+V0016,16-01-2024,18:07,Chennai,Anna Salai,Signal Jump,Car,1500,No,weather,Yes,,,,,,24,Fog,0
+V0017,17-01-2024,04:12,Hyderabad,Mehdipatnam Road,No Seatbelt,Car,1000,No,weather,Yes,,,,,,25,Fog,0
+V0018,18-01-2024,06:44,Delhi,Ring Road,No Seatbelt,Bus,1000,No,weather,No,,,,,,29,Rain,34
+V0019,19-01-2024,17:12,Delhi,Outer Ring Road,No Helmet,Auto,500,No,weather,Yes,,,,,,16,Clear,0
+V0020,20-01-2024,23:16,Chennai,OMR Road,Signal Jump,Truck,1500,No,weather,No,,,,,,29,Clear,0
+V0021,21-01-2024,00:01,Bengaluru,Whitefield Road,Signal Jump,Auto,1500,No,weather,No,A0021,High,4,Rain,3,15,Clear,0
+V0022,22-01-2024,23:29,Delhi,MG Road,Drunk Driving,Bus,10000,Yes,weather,No,,,,,,22,Rain,4
+V0023,23-01-2024,23:46,Mumbai,Link Road,No Helmet,Truck,500,No,weather,Yes,,,,,,29,Rain,0
+V0024,24-01-2024,02:07,Delhi,Outer Ring Road,No Seatbelt,Bus,1000,Yes,weather,No,,,,,,31,Rain,0
+V0025,25-01-2024,20:56,Mumbai,SV Road,No Helmet,Bike,500,Yes,weather,Yes,,,,,,37,Rain,15
+V0026,26-01-2024,06:25,Delhi,Ring Road,No Helmet,Auto,500,Yes,weather,No,,,,,,22,Rain,0
+V0027,27-01-2024,20:14,Chennai,Mount Road,Speeding,Auto,2000,Yes,weather,No,,,,,,24,Rain,0
+V0028,28-01-2024,22:55,Bengaluru,Silk Board Junction,Speeding,Bike,2000,No,weather,No,,,,,,24,Rain,0
+V0029,29-01-2024,20:31,Bengaluru,Silk Board Junction,Signal Jump,Bike,1500,No,weather,No,,,,,,35,Fog,0
+V0030,30-01-2024,07:07,Bengaluru,Silk Board Junction,Wrong Side,Car,1000,Yes,weather,Yes,A0030,High,3,Fog,1,34,Rain,0
+V0031,31-01-2024,12:34,Chennai,Anna Salai,Drunk Driving,Truck,10000,Yes,weather,Yes,,,,,,19,Rain,10
+V0032,01-02-2024,22:50,Bengaluru,Silk Board Junction,No Helmet,Car,500,Yes,weather,No,A0032,Low,1,Rain,1,10,Fog,0
+V0033,02-02-2024,11:07,Hyderabad,Mehdipatnam Road,Wrong Side,Bus,1000,No,weather,Yes,,,,,,14,Clear,0
+V0034,03-02-2024,23:56,Hyderabad,Mehdipatnam Road,Drunk Driving,Truck,10000,No,weather,Yes,,,,,,36,Rain,0
+V0035,04-02-2024,14:23,Hyderabad,ORR Hyderabad,Speeding,Bike,2000,No,weather,Yes,,,,,,16,Clear,13
+V0036,05-02-2024,16:13,Chennai,Anna Salai,No Helmet,Bike,500,No,weather,Yes,,,,,,16,Fog,6
+V0037,06-02-2024,14:18,Hyderabad,Mehdipatnam Road,No Seatbelt,Bike,1000,Yes,weather,No,,,,,,33,Rain,0
+V0038,07-02-2024,03:13,Bengaluru,Outer Ring Road,No Helmet,Auto,500,Yes,weather,Yes,,,,,,35,Rain,0
+V0039,08-02-2024,11:35,Mumbai,Western Express Highway,Speeding,Auto,2000,Yes,weather,No,,,,,,16,Fog,0
+V0040,09-02-2024,03:35,Mumbai,Western Express Highway,No Seatbelt,Auto,1000,No,weather,Yes,,,,,,27,Fog,23
+V0041,10-02-2024,17:16,Delhi,Ring Road,Signal Jump,Auto,1500,No,weather,Yes,,,,,,20,Clear,0
+V0042,11-02-2024,12:13,Mumbai,SV Road,Drunk Driving,Bus,10000,No,weather,Yes,,,,,,10,Fog,0
+V0043,12-02-2024,07:05,Chennai,Mount Road,No Seatbelt,Bike,1000,No,weather,Yes,,,,,,18,Fog,0
+V0044,13-02-2024,15:14,Bengaluru,Outer Ring Road,Speeding,Truck,2000,Yes,weather,No,,,,,,33,Rain,0
+V0045,14-02-2024,17:25,Bengaluru,Whitefield Road,Drunk Driving,Truck,10000,No,weather,Yes,,,,,,17,Rain,0
+V0046,15-02-2024,22:38,Chennai,Anna Salai,Signal Jump,Bus,1500,Yes,weather,Yes,,,,,,19,Rain,0
+V0047,16-02-2024,02:16,Bengaluru,Outer Ring Road,Speeding,Car,2000,No,weather,No,,,,,,30,Clear,0
+V0048,17-02-2024,05:39,Chennai,Anna Salai,Wrong Side,Auto,1000,No,weather,No,,,,,,10,Clear,0
+V0049,18-02-2024,17:11,Bengaluru,Silk Board Junction,Wrong Side,Truck,1000,No,weather,No,,,,,,19,Fog,0
+V0050,19-02-2024,01:31,Bengaluru,Outer Ring Road,Signal Jump,Car,1500,Yes,weather,No,,,,,,27,Clear,0
+V0051,20-02-2024,05:48,Mumbai,SV Road,No Seatbelt,Truck,1000,Yes,weather,Yes,,,,,,21,Clear,33
+V0052,21-02-2024,21:48,Delhi,Ring Road,Drunk Driving,Bus,10000,No,weather,Yes,,,,,,16,Clear,0
+V0053,22-02-2024,07:23,Bengaluru,Silk Board Junction,Wrong Side,Auto,1000,Yes,weather,No,,,,,,32,Clear,0
+V0054,23-02-2024,19:23,Hyderabad,ORR Hyderabad,No Seatbelt,Auto,1000,Yes,weather,Yes,A0054,High,1,Clear,3,26,Rain,14
+V0055,24-02-2024,16:23,Mumbai,SV Road,Speeding,Truck,2000,Yes,weather,Yes,,,,,,23,Fog,0
+V0056,25-02-2024,17:24,Chennai,Mount Road,Wrong Side,Bus,1000,No,weather,Yes,,,,,,32,Fog,7
+V0057,26-02-2024,01:07,Bengaluru,Silk Board Junction,No Seatbelt,Bus,1000,No,weather,No,,,,,,16,Rain,0
+V0058,27-02-2024,16:10,Chennai,OMR Road,Drunk Driving,Car,10000,Yes,weather,Yes,,,,,,38,Rain,0
+V0059,28-02-2024,06:09,Delhi,GT Road,Signal Jump,Auto,1500,No,weather,No,,,,,,30,Fog,0
+V0060,29-02-2024,02:29,Delhi,Ring Road,No Helmet,Bus,500,Yes,weather,Yes,,,,,,16,Rain,0
+V0061,01-03-2024,01:20,Bengaluru,Silk Board Junction,No Seatbelt,Bus,1000,No,weather,Yes,,,,,,23,Clear,0
+V0062,02-03-2024,16:03,Delhi,Outer Ring Road,Speeding,Auto,2000,No,weather,No,,,,,,30,Clear,50
+V0063,03-03-2024,14:22,Chennai,Anna Salai,Speeding,Car,2000,No,weather,Yes,,,,,,34,Clear,0
+V0064,04-03-2024,17:51,Chennai,OMR Road,No Seatbelt,Truck,1000,No,weather,No,,,,,,36,Fog,28
+V0065,05-03-2024,12:06,Delhi,Ring Road,No Seatbelt,Car,1000,Yes,weather,Yes,,,,,,35,Rain,0
+V0066,06-03-2024,09:13,Chennai,Mount Road,Wrong Side,Auto,1000,No,weather,No,,,,,,32,Fog,1
+V0067,07-03-2024,21:37,Chennai,Mount Road,No Helmet,Auto,500,No,weather,No,,,,,,10,Clear,0
+V0068,08-03-2024,14:13,Chennai,OMR Road,No Seatbelt,Car,1000,Yes,weather,Yes,,,,,,34,Rain,0
+V0069,09-03-2024,18:16,Bengaluru,Whitefield Road,Wrong Side,Auto,1000,Yes,weather,Yes,,,,,,34,Clear,0
+V0070,10-03-2024,21:08,Mumbai,Link Road,Signal Jump,Bus,1500,Yes,weather,No,,,,,,16,Clear,0
+V0071,11-03-2024,11:47,Chennai,OMR Road,Wrong Side,Car,1000,No,weather,No,,,,,,21,Fog,44
+V0072,12-03-2024,20:44,Bengaluru,Outer Ring Road,Wrong Side,Truck,1000,Yes,weather,No,,,,,,24,Clear,44
+V0073,13-03-2024,21:08,Hyderabad,ORR Hyderabad,Drunk Driving,Car,10000,No,weather,No,,,,,,14,Clear,12
+V0074,14-03-2024,15:25,Mumbai,SV Road,Speeding,Car,2000,No,weather,No,,,,,,30,Fog,0
+V0075,15-03-2024,17:32,Bengaluru,Silk Board Junction,No Helmet,Bus,500,No,weather,No,,,,,,26,Rain,0
+V0076,16-03-2024,16:00,Bengaluru,Whitefield Road,No Seatbelt,Bus,1000,No,weather,No,,,,,,21,Rain,0
+V0077,17-03-2024,12:17,Hyderabad,Mehdipatnam Road,Wrong Side,Bus,1000,No,weather,Yes,,,,,,29,Rain,0
+V0078,18-03-2024,14:47,Delhi,MG Road,No Helmet,Bus,500,No,weather,No,,,,,,11,Fog,0
+V0079,19-03-2024,23:04,Hyderabad,ORR Hyderabad,Wrong Side,Bike,1000,No,weather,Yes,,,,,,36,Rain,27
+V0080,20-03-2024,23:52,Delhi,Ring Road,Wrong Side,Truck,1000,No,weather,Yes,,,,,,25,Rain,46
+V0081,21-03-2024,16:29,Hyderabad,ORR Hyderabad,Signal Jump,Bus,1500,No,weather,No,,,,,,20,Fog,0
+V0082,22-03-2024,10:45,Hyderabad,ORR Hyderabad,Drunk Driving,Bus,10000,No,weather,No,,,,,,18,Fog,0
+V0083,23-03-2024,13:37,Mumbai,SV Road,Speeding,Auto,2000,No,weather,Yes,,,,,,18,Rain,0
+V0084,24-03-2024,20:08,Delhi,Ring Road,Signal Jump,Car,1500,No,weather,Yes,,,,,,33,Clear,0
+V0085,25-03-2024,01:56,Bengaluru,Outer Ring Road,Signal Jump,Bus,1500,Yes,weather,No,,,,,,30,Fog,0
+V0086,26-03-2024,16:48,Chennai,OMR Road,No Helmet,Bike,500,No,weather,Yes,,,,,,36,Clear,0
+V0087,27-03-2024,06:11,Delhi,Ring Road,No Seatbelt,Auto,1000,No,weather,Yes,,,,,,36,Fog,0
+V0088,28-03-2024,13:49,Delhi,Ring Road,Wrong Side,Auto,1000,Yes,weather,Yes,,,,,,10,Rain,1
+V0089,29-03-2024,13:53,Chennai,OMR Road,Wrong Side,Truck,1000,No,weather,No,,,,,,26,Clear,0
+V0090,30-03-2024,08:55,Mumbai,Western Express Highway,Speeding,Bike,2000,Yes,weather,No,,,,,,33,Rain,0
+V0091,31-03-2024,22:49,Chennai,OMR Road,No Seatbelt,Car,1000,No,weather,No,,,,,,22,Clear,20
+V0092,01-04-2024,22:51,Mumbai,Western Express Highway,Wrong Side,Truck,1000,No,weather,Yes,,,,,,16,Clear,0
+V0093,02-04-2024,18:12,Bengaluru,Whitefield Road,Drunk Driving,Bus,10000,No,weather,Yes,,,,,,32,Rain,0
+V0094,03-04-2024,19:19,Bengaluru,Whitefield Road,No Seatbelt,Auto,1000,No,weather,Yes,,,,,,28,Fog,0
+V0095,04-04-2024,23:27,Mumbai,SV Road,Speeding,Bus,2000,Yes,weather,Yes,,,,,,22,Rain,0
+V0096,05-04-2024,08:58,Hyderabad,Mehdipatnam Road,No Helmet,Auto,500,Yes,weather,No,,,,,,34,Rain,0
+V0097,06-04-2024,03:44,Delhi,Outer Ring Road,No Helmet,Bus,500,No,weather,No,,,,,,35,Fog,28
+V0098,07-04-2024,06:01,Bengaluru,Silk Board Junction,Wrong Side,Car,1000,Yes,weather,No,,,,,,19,Fog,0
+V0099,08-04-2024,06:26,Delhi,MG Road,Wrong Side,Car,1000,No,weather,No,A0099,Medium,1,Fog,3,16,Fog,0
+V0100,09-04-2024,17:42,Delhi,GT Road,Speeding,Truck,2000,No,weather,No,,,,,,13,Clear,0
+V0101,10-04-2024,19:52,Chennai,Anna Salai,Drunk Driving,Car,10000,Yes,weather,Yes,,,,,,34,Fog,0
+V0102,11-04-2024,17:20,Hyderabad,ORR Hyderabad,Speeding,Auto,2000,No,weather,No,,,,,,15,Rain,0
+V0103,12-04-2024,19:43,Delhi,MG Road,Wrong Side,Auto,1000,No,weather,No,,,,,,19,Clear,0
+V0104,13-04-2024,01:09,Mumbai,Western Express Highway,No Helmet,Auto,500,Yes,weather,No,,,,,,22,Clear,26
+V0105,14-04-2024,13:32,Hyderabad,Mehdipatnam Road,Signal Jump,Truck,1500,Yes,weather,Yes,A0105,Low,4,Rain,1,27,Clear,44
+V0106,15-04-2024,11:09,Hyderabad,Hitech City Road,No Helmet,Bus,500,No,weather,Yes,,,,,,17,Rain,0
+V0107,16-04-2024,07:48,Mumbai,Western Express Highway,Signal Jump,Auto,1500,No,weather,No,,,,,,16,Rain,0
+V0108,17-04-2024,08:06,Chennai,Mount Road,Speeding,Truck,2000,No,weather,Yes,,,,,,31,Clear,5
+V0109,18-04-2024,23:59,Bengaluru,Outer Ring Road,No Helmet,Car,500,Yes,weather,Yes,,,,,,13,Clear,38
+V0110,19-04-2024,21:24,Hyderabad,ORR Hyderabad,No Helmet,Bus,500,No,weather,Yes,,,,,,23,Rain,0
+V0111,20-04-2024,14:51,Mumbai,Link Road,Speeding,Bike,2000,Yes,weather,No,A0111,Medium,4,Clear,0,29,Fog,0
+V0112,21-04-2024,21:10,Hyderabad,Hitech City Road,Signal Jump,Auto,1500,Yes,weather,Yes,,,,,,19,Fog,0
+V0113,22-04-2024,02:35,Bengaluru,Silk Board Junction,Drunk Driving,Car,10000,Yes,weather,No,,,,,,35,Clear,0
+V0114,23-04-2024,06:14,Mumbai,SV Road,No Helmet,Bus,500,Yes,weather,No,,,,,,21,Rain,0
+V0115,24-04-2024,01:07,Delhi,Ring Road,No Seatbelt,Truck,1000,No,weather,Yes,,,,,,34,Fog,12
+V0116,25-04-2024,23:18,Hyderabad,Mehdipatnam Road,No Seatbelt,Truck,1000,No,weather,Yes,,,,,,34,Rain,0
+V0117,26-04-2024,13:42,Chennai,Anna Salai,No Seatbelt,Car,1000,No,weather,Yes,,,,,,14,Fog,0
+V0118,27-04-2024,08:23,Chennai,Anna Salai,Signal Jump,Truck,1500,No,weather,Yes,,,,,,35,Clear,20
+V0119,28-04-2024,23:34,Bengaluru,Outer Ring Road,Speeding,Car,2000,Yes,weather,Yes,,,,,,27,Clear,0
+V0120,29-04-2024,04:09,Delhi,Ring Road,No Helmet,Bike,500,Yes,weather,No,,,,,,27,Fog,0
+V0121,30-04-2024,05:51,Mumbai,Link Road,Signal Jump,Truck,1500,Yes,weather,Yes,,,,,,13,Fog,0
+V0122,01-05-2024,19:17,Hyderabad,Hitech City Road,Drunk Driving,Auto,10000,Yes,weather,Yes,,,,,,34,Clear,0
+V0123,02-05-2024,10:58,Mumbai,SV Road,Signal Jump,Bus,1500,Yes,weather,No,A0123,Medium,1,Clear,0,27,Clear,0
+V0124,03-05-2024,03:05,Hyderabad,Mehdipatnam Road,Signal Jump,Auto,1500,No,weather,No,,,,,,38,Clear,41
+V0125,04-05-2024,15:33,Chennai,OMR Road,Wrong Side,Truck,1000,No,weather,No,,,,,,33,Rain,0
+V0126,05-05-2024,10:20,Delhi,Ring Road,No Seatbelt,Bus,1000,No,weather,No,,,,,,29,Fog,40
+V0127,06-05-2024,07:25,Delhi,Ring Road,No Seatbelt,Bus,1000,Yes,weather,Yes,,,,,,33,Fog,0
+V0128,07-05-2024,10:08,Bengaluru,Silk Board Junction,Drunk Driving,Car,10000,No,weather,No,,,,,,11,Rain,7
+V0129,08-05-2024,02:52,Delhi,Ring Road,Speeding,Bike,2000,No,weather,Yes,,,,,,28,Clear,0
+V0130,09-05-2024,21:32,Mumbai,Western Express Highway,Drunk Driving,Auto,10000,No,weather,Yes,A0130,Medium,4,Rain,0,11,Clear,0
+V0131,10-05-2024,00:55,Hyderabad,Hitech City Road,Speeding,Bike,2000,No,weather,No,,,,,,12,Fog,0
+V0132,11-05-2024,15:01,Hyderabad,Hitech City Road,No Seatbelt,Bus,1000,Yes,weather,No,A0132,Low,3,Clear,3,26,Rain,41
+V0133,12-05-2024,02:33,Chennai,Anna Salai,Drunk Driving,Car,10000,No,weather,Yes,,,,,,36,Fog,0
+V0134,13-05-2024,18:37,Chennai,OMR Road,No Seatbelt,Bike,1000,Yes,weather,No,,,,,,17,Clear,0
+V0135,14-05-2024,07:17,Chennai,Mount Road,Signal Jump,Bus,1500,Yes,weather,Yes,,,,,,17,Clear,19
+V0136,15-05-2024,22:39,Hyderabad,ORR Hyderabad,Signal Jump,Bus,1500,No,weather,Yes,,,,,,38,Clear,0
+V0137,16-05-2024,20:02,Mumbai,SV Road,No Helmet,Truck,500,No,weather,Yes,,,,,,38,Fog,0
+V0138,17-05-2024,07:29,Bengaluru,Silk Board Junction,Drunk Driving,Car,10000,Yes,weather,Yes,,,,,,15,Clear,0
+V0139,18-05-2024,15:38,Mumbai,SV Road,Wrong Side,Bus,1000,No,weather,Yes,,,,,,34,Fog,0
+V0140,19-05-2024,11:35,Chennai,Mount Road,Wrong Side,Auto,1000,Yes,weather,No,,,,,,32,Fog,0
+V0141,20-05-2024,04:57,Bengaluru,Whitefield Road,Drunk Driving,Auto,10000,Yes,weather,Yes,,,,,,29,Clear,0
+V0142,21-05-2024,10:26,Mumbai,SV Road,Speeding,Bike,2000,Yes,weather,Yes,A0142,Low,4,Clear,2,37,Rain,0
+V0143,22-05-2024,23:56,Mumbai,Link Road,Signal Jump,Car,1500,Yes,weather,No,,,,,,35,Rain,0
+V0144,23-05-2024,16:52,Bengaluru,Whitefield Road,Speeding,Bike,2000,No,weather,No,,,,,,21,Clear,40
+V0145,24-05-2024,20:35,Chennai,Mount Road,Drunk Driving,Truck,10000,Yes,weather,Yes,,,,,,27,Rain,7
+V0146,25-05-2024,08:26,Hyderabad,Mehdipatnam Road,No Helmet,Truck,500,No,weather,No,,,,,,29,Rain,0
+V0147,26-05-2024,22:54,Chennai,Mount Road,Drunk Driving,Car,10000,Yes,weather,No,,,,,,34,Rain,0
+V0148,27-05-2024,04:52,Delhi,Ring Road,Drunk Driving,Auto,10000,Yes,weather,Yes,,,,,,20,Fog,23
+V0149,28-05-2024,18:52,Chennai,Mount Road,Wrong Side,Bike,1000,No,weather,Yes,,,,,,34,Clear,0
+V0150,29-05-2024,15:49,Delhi,Outer Ring Road,Drunk Driving,Bus,10000,Yes,weather,Yes,,,,,,28,Fog,0
+V0151,30-05-2024,04:44,Bengaluru,Outer Ring Road,Speeding,Auto,2000,Yes,weather,Yes,,,,,,16,Fog,0
+V0152,31-05-2024,05:44,Mumbai,Western Express Highway,No Helmet,Car,500,Yes,weather,No,,,,,,13,Fog,0
+V0153,01-06-2024,13:00,Bengaluru,Outer Ring Road,Speeding,Auto,2000,Yes,weather,No,,,,,,21,Rain,23
+V0154,02-06-2024,02:50,Delhi,MG Road,Wrong Side,Bus,1000,Yes,weather,No,,,,,,16,Rain,0
+V0155,03-06-2024,19:33,Bengaluru,Outer Ring Road,No Helmet,Truck,500,Yes,weather,Yes,,,,,,28,Clear,0
+V0156,04-06-2024,06:40,Bengaluru,Silk Board Junction,Signal Jump,Auto,1500,No,weather,No,,,,,,18,Clear,0
+V0157,05-06-2024,11:51,Hyderabad,Hitech City Road,No Helmet,Auto,500,Yes,weather,Yes,,,,,,17,Rain,0
+V0158,06-06-2024,10:22,Hyderabad,ORR Hyderabad,Signal Jump,Auto,1500,Yes,weather,Yes,,,,,,29,Clear,0
+V0159,07-06-2024,04:28,Mumbai,Link Road,Speeding,Bike,2000,Yes,weather,No,,,,,,27,Clear,12
+V0160,08-06-2024,09:34,Hyderabad,Hitech City Road,No Seatbelt,Auto,1000,No,weather,Yes,,,,,,32,Fog,0
+V0161,09-06-2024,12:36,Chennai,OMR Road,Wrong Side,Car,1000,No,weather,No,,,,,,20,Clear,4
+V0162,10-06-2024,13:32,Bengaluru,Silk Board Junction,Wrong Side,Bike,1000,Yes,weather,Yes,,,,,,19,Rain,42
+V0163,11-06-2024,19:42,Bengaluru,Outer Ring Road,No Helmet,Bike,500,Yes,weather,Yes,,,,,,10,Rain,29
+V0164,12-06-2024,11:51,Hyderabad,Hitech City Road,Wrong Side,Bus,1000,Yes,weather,Yes,,,,,,36,Clear,0
+V0165,13-06-2024,22:57,Hyderabad,Hitech City Road,Wrong Side,Truck,1000,No,weather,No,,,,,,29,Clear,0
+V0166,14-06-2024,15:25,Hyderabad,ORR Hyderabad,No Seatbelt,Bike,1000,Yes,weather,Yes,,,,,,27,Rain,0
+V0167,15-06-2024,09:54,Hyderabad,Mehdipatnam Road,Drunk Driving,Auto,10000,No,weather,Yes,,,,,,18,Clear,0
+V0168,16-06-2024,21:58,Hyderabad,Hitech City Road,Drunk Driving,Bus,10000,No,weather,No,,,,,,27,Clear,47
+V0169,17-06-2024,02:25,Chennai,Mount Road,No Seatbelt,Auto,1000,Yes,weather,No,,,,,,37,Fog,0
+V0170,18-06-2024,08:53,Bengaluru,Silk Board Junction,Signal Jump,Auto,1500,Yes,weather,Yes,,,,,,20,Clear,0
+V0171,19-06-2024,15:43,Hyderabad,Mehdipatnam Road,Wrong Side,Bike,1000,No,weather,Yes,,,,,,31,Clear,0
+V0172,20-06-2024,02:52,Delhi,Outer Ring Road,Speeding,Car,2000,Yes,weather,No,,,,,,38,Fog,0
+V0173,21-06-2024,01:39,Mumbai,Western Express Highway,Drunk Driving,Bus,10000,No,weather,Yes,A0173,Low,4,Rain,0,13,Fog,0
+V0174,22-06-2024,23:15,Chennai,Anna Salai,No Helmet,Truck,500,Yes,weather,No,,,,,,19,Fog,0
+V0175,23-06-2024,16:12,Hyderabad,Hitech City Road,No Seatbelt,Truck,1000,Yes,weather,Yes,,,,,,19,Clear,0
+V0176,24-06-2024,12:14,Hyderabad,Mehdipatnam Road,No Helmet,Truck,500,Yes,weather,No,,,,,,27,Rain,0
+V0177,25-06-2024,04:33,Mumbai,Western Express Highway,Signal Jump,Bus,1500,Yes,weather,Yes,,,,,,25,Rain,0
+V0178,26-06-2024,02:31,Hyderabad,ORR Hyderabad,Drunk Driving,Truck,10000,No,weather,Yes,,,,,,19,Fog,0
+V0179,27-06-2024,15:12,Bengaluru,Silk Board Junction,Wrong Side,Car,1000,No,weather,Yes,,,,,,13,Fog,0
+V0180,28-06-2024,16:53,Mumbai,Western Express Highway,Signal Jump,Car,1500,No,weather,Yes,,,,,,13,Fog,0
+V0181,29-06-2024,17:03,Delhi,MG Road,Wrong Side,Bike,1000,Yes,weather,No,,,,,,30,Fog,0
+V0182,30-06-2024,17:06,Delhi,Ring Road,No Helmet,Truck,500,No,weather,Yes,,,,,,22,Rain,0
+V0183,01-07-2024,18:30,Mumbai,SV Road,Wrong Side,Bus,1000,Yes,weather,No,,,,,,14,Fog,0
+V0184,02-07-2024,19:16,Hyderabad,Hitech City Road,No Helmet,Auto,500,Yes,weather,Yes,,,,,,19,Fog,0
+V0185,03-07-2024,10:09,Bengaluru,Silk Board Junction,Wrong Side,Truck,1000,No,weather,Yes,,,,,,32,Fog,0
+V0186,04-07-2024,10:23,Chennai,OMR Road,No Seatbelt,Bus,1000,No,weather,Yes,,,,,,10,Clear,0
+V0187,05-07-2024,13:40,Delhi,MG Road,Signal Jump,Car,1500,No,weather,Yes,,,,,,34,Clear,0
+V0188,06-07-2024,18:29,Mumbai,SV Road,Speeding,Car,2000,No,weather,Yes,A0188,Medium,1,Clear,2,27,Clear,0
+V0189,07-07-2024,10:21,Bengaluru,Outer Ring Road,Signal Jump,Car,1500,No,weather,Yes,,,,,,34,Fog,0
+V0190,08-07-2024,18:33,Hyderabad,Mehdipatnam Road,No Seatbelt,Auto,1000,Yes,weather,Yes,,,,,,11,Clear,0
+V0191,09-07-2024,05:59,Bengaluru,Outer Ring Road,Speeding,Car,2000,Yes,weather,Yes,,,,,,12,Clear,43
+V0192,10-07-2024,01:39,Hyderabad,ORR Hyderabad,Signal Jump,Car,1500,No,weather,Yes,,,,,,38,Clear,0
+V0193,11-07-2024,01:27,Bengaluru,Whitefield Road,Drunk Driving,Bike,10000,Yes,weather,No,,,,,,35,Rain,0
+V0194,12-07-2024,06:14,Mumbai,Link Road,Speeding,Bus,2000,Yes,weather,No,,,,,,13,Fog,0
+V0195,13-07-2024,10:37,Delhi,GT Road,Drunk Driving,Bus,10000,Yes,weather,No,,,,,,13,Rain,44
+V0196,14-07-2024,05:10,Bengaluru,Outer Ring Road,Speeding,Truck,2000,Yes,weather,Yes,,,,,,17,Clear,0
+V0197,15-07-2024,13:51,Mumbai,SV Road,Drunk Driving,Truck,10000,No,weather,Yes,,,,,,28,Fog,40
+V0198,16-07-2024,15:48,Mumbai,Link Road,Drunk Driving,Auto,10000,Yes,weather,No,,,,,,26,Fog,31
+V0199,17-07-2024,05:52,Delhi,MG Road,Speeding,Car,2000,No,weather,No,,,,,,24,Clear,2
+V0200,18-07-2024,10:23,Chennai,Anna Salai,Speeding,Truck,2000,No,weather,No,,,,,,15,Clear,0
+V0201,19-07-2024,08:37,Bengaluru,Outer Ring Road,Drunk Driving,Auto,10000,Yes,weather,Yes,,,,,,24,Fog,0
+V0202,20-07-2024,13:16,Delhi,Ring Road,No Seatbelt,Car,1000,No,weather,Yes,,,,,,32,Rain,34
+V0203,21-07-2024,05:39,Delhi,Outer Ring Road,Speeding,Car,2000,Yes,weather,No,,,,,,11,Rain,27
+V0204,22-07-2024,17:33,Bengaluru,Whitefield Road,Drunk Driving,Truck,10000,Yes,weather,No,,,,,,31,Rain,8
+V0205,23-07-2024,05:04,Chennai,Mount Road,Signal Jump,Truck,1500,No,weather,No,,,,,,35,Clear,40
+V0206,24-07-2024,20:54,Chennai,OMR Road,No Helmet,Car,500,No,weather,Yes,,,,,,20,Fog,0
+V0207,25-07-2024,02:19,Hyderabad,Mehdipatnam Road,No Helmet,Bike,500,Yes,weather,No,,,,,,16,Rain,0
+V0208,26-07-2024,23:22,Mumbai,SV Road,No Seatbelt,Bike,1000,Yes,weather,Yes,,,,,,21,Fog,0
+V0209,27-07-2024,00:30,Hyderabad,Mehdipatnam Road,Drunk Driving,Truck,10000,No,weather,Yes,,,,,,32,Rain,0
+V0210,28-07-2024,08:13,Chennai,Anna Salai,Wrong Side,Car,1000,Yes,weather,No,,,,,,33,Fog,8
+V0211,29-07-2024,00:03,Delhi,GT Road,No Seatbelt,Auto,1000,Yes,weather,No,,,,,,37,Fog,0
+V0212,30-07-2024,16:24,Hyderabad,ORR Hyderabad,No Helmet,Car,500,No,weather,Yes,,,,,,36,Fog,0
+V0213,31-07-2024,08:35,Delhi,Outer Ring Road,No Helmet,Car,500,No,weather,No,,,,,,12,Clear,44
+V0214,01-08-2024,15:26,Mumbai,Western Express Highway,Speeding,Truck,2000,No,weather,No,,,,,,20,Rain,0
+V0215,02-08-2024,00:27,Delhi,MG Road,No Helmet,Bike,500,Yes,weather,Yes,,,,,,23,Clear,50
+V0216,03-08-2024,14:31,Bengaluru,Whitefield Road,Wrong Side,Car,1000,Yes,weather,Yes,A0216,Medium,3,Rain,2,37,Clear,0
+V0217,04-08-2024,14:01,Mumbai,Western Express Highway,No Helmet,Auto,500,Yes,weather,No,,,,,,33,Rain,6
+V0218,05-08-2024,20:40,Bengaluru,Outer Ring Road,Speeding,Truck,2000,Yes,weather,No,,,,,,16,Fog,4
+V0219,06-08-2024,16:55,Delhi,Ring Road,No Seatbelt,Car,1000,No,weather,No,,,,,,32,Fog,0
+V0220,07-08-2024,23:14,Bengaluru,Silk Board Junction,Signal Jump,Truck,1500,No,weather,Yes,A0220,High,4,Clear,0,30,Clear,0
+V0221,08-08-2024,12:19,Mumbai,SV Road,Signal Jump,Bike,1500,No,weather,No,,,,,,29,Clear,0
+V0222,09-08-2024,04:28,Hyderabad,ORR Hyderabad,No Seatbelt,Auto,1000,No,weather,No,A0222,Medium,1,Fog,0,27,Clear,0
+V0223,10-08-2024,07:06,Hyderabad,Mehdipatnam Road,Drunk Driving,Auto,10000,No,weather,Yes,,,,,,12,Fog,8
+V0224,11-08-2024,06:21,Mumbai,Link Road,Signal Jump,Auto,1500,No,weather,No,,,,,,28,Fog,0
+V0225,12-08-2024,16:38,Mumbai,SV Road,Wrong Side,Car,1000,Yes,weather,Yes,,,,,,14,Fog,19
+V0226,13-08-2024,01:05,Mumbai,Western Express Highway,Speeding,Auto,2000,Yes,weather,No,,,,,,34,Fog,46
+V0227,14-08-2024,05:16,Chennai,Mount Road,Wrong Side,Bike,1000,Yes,weather,Yes,,,,,,26,Rain,13
+V0228,15-08-2024,10:07,Chennai,OMR Road,Signal Jump,Truck,1500,Yes,weather,Yes,,,,,,22,Clear,0
+V0229,16-08-2024,08:45,Delhi,GT Road,Signal Jump,Bike,1500,Yes,weather,Yes,,,,,,29,Fog,49
+V0230,17-08-2024,09:24,Delhi,Ring Road,No Helmet,Car,500,Yes,weather,No,,,,,,37,Rain,0
+V0231,18-08-2024,01:23,Bengaluru,Silk Board Junction,Signal Jump,Bus,1500,Yes,weather,No,,,,,,31,Clear,0
+V0232,19-08-2024,16:17,Delhi,Outer Ring Road,Speeding,Car,2000,Yes,weather,Yes,,,,,,25,Fog,0
+V0233,20-08-2024,12:13,Hyderabad,Mehdipatnam Road,Wrong Side,Car,1000,Yes,weather,Yes,,,,,,12,Fog,17
+V0234,21-08-2024,04:51,Bengaluru,Whitefield Road,Wrong Side,Bus,1000,Yes,weather,No,,,,,,16,Rain,0
+V0235,22-08-2024,23:41,Hyderabad,Hitech City Road,No Seatbelt,Bus,1000,Yes,weather,Yes,,,,,,23,Rain,38
+V0236,23-08-2024,10:40,Hyderabad,Mehdipatnam Road,Drunk Driving,Car,10000,No,weather,No,,,,,,26,Clear,0
+V0237,24-08-2024,05:13,Hyderabad,ORR Hyderabad,Signal Jump,Auto,1500,Yes,weather,No,,,,,,33,Fog,0
+V0238,25-08-2024,01:24,Mumbai,Link Road,No Helmet,Truck,500,No,weather,No,,,,,,23,Rain,0
+V0239,26-08-2024,11:35,Mumbai,Link Road,No Seatbelt,Car,1000,Yes,weather,No,,,,,,24,Clear,0
+V0240,27-08-2024,14:59,Chennai,Anna Salai,No Seatbelt,Bus,1000,No,weather,Yes,,,,,,12,Rain,28
+V0241,28-08-2024,06:17,Chennai,OMR Road,No Helmet,Truck,500,Yes,weather,No,,,,,,10,Clear,0
+V0242,29-08-2024,07:33,Mumbai,SV Road,Speeding,Bus,2000,Yes,weather,Yes,,,,,,27,Clear,0
+V0243,30-08-2024,08:55,Hyderabad,Hitech City Road,Speeding,Car,2000,No,weather,Yes,,,,,,27,Fog,0
+V0244,31-08-2024,08:53,Mumbai,Western Express Highway,Speeding,Auto,2000,No,weather,Yes,,,,,,31,Rain,0
+V0245,01-09-2024,07:03,Chennai,OMR Road,Wrong Side,Car,1000,Yes,weather,Yes,,,,,,13,Clear,1
+V0246,02-09-2024,15:32,Delhi,Outer Ring Road,Drunk Driving,Car,10000,No,weather,No,,,,,,27,Clear,17
+V0247,03-09-2024,03:14,Chennai,Anna Salai,Drunk Driving,Car,10000,No,weather,No,,,,,,33,Rain,0
+V0248,04-09-2024,17:42,Delhi,MG Road,Wrong Side,Bike,1000,Yes,weather,No,,,,,,13,Rain,0
+V0249,05-09-2024,12:53,Delhi,Ring Road,No Helmet,Truck,500,Yes,weather,Yes,,,,,,34,Clear,0
+V0250,06-09-2024,01:20,Chennai,Mount Road,No Helmet,Auto,500,No,weather,No,,,,,,19,Rain,0
+V0251,07-09-2024,01:25,Chennai,Anna Salai,Signal Jump,Truck,1500,Yes,weather,Yes,,,,,,11,Clear,0
+V0252,08-09-2024,04:19,Bengaluru,Silk Board Junction,Wrong Side,Car,1000,Yes,weather,Yes,,,,,,31,Fog,0
+V0253,09-09-2024,23:20,Chennai,OMR Road,Drunk Driving,Bus,10000,No,weather,No,,,,,,37,Rain,0
+V0254,10-09-2024,03:53,Chennai,Mount Road,Signal Jump,Truck,1500,Yes,weather,No,,,,,,24,Fog,0
+V0255,11-09-2024,23:50,Delhi,Ring Road,Speeding,Bus,2000,Yes,weather,Yes,,,,,,30,Rain,0
+V0256,12-09-2024,08:27,Chennai,Anna Salai,Speeding,Auto,2000,No,weather,No,,,,,,30,Clear,0
+V0257,13-09-2024,15:51,Delhi,Ring Road,Speeding,Auto,2000,Yes,weather,Yes,,,,,,25,Fog,0
+V0258,14-09-2024,00:02,Bengaluru,Outer Ring Road,Drunk Driving,Bus,10000,Yes,weather,Yes,,,,,,21,Fog,6
+V0259,15-09-2024,21:14,Hyderabad,Mehdipatnam Road,Signal Jump,Bus,1500,No,weather,Yes,,,,,,17,Rain,0
+V0260,16-09-2024,22:05,Hyderabad,Hitech City Road,Drunk Driving,Car,10000,Yes,weather,Yes,,,,,,14,Fog,0
+V0261,17-09-2024,12:17,Mumbai,Link Road,Drunk Driving,Bike,10000,Yes,weather,Yes,A0261,Medium,3,Rain,1,29,Rain,0
+V0262,18-09-2024,05:24,Mumbai,Western Express Highway,No Helmet,Bike,500,No,weather,Yes,,,,,,19,Rain,0
+V0263,19-09-2024,02:33,Chennai,Mount Road,No Helmet,Bike,500,Yes,weather,No,,,,,,17,Fog,31
+V0264,20-09-2024,08:28,Chennai,OMR Road,Signal Jump,Auto,1500,No,weather,No,,,,,,18,Rain,0
+V0265,21-09-2024,16:28,Hyderabad,Hitech City Road,No Helmet,Auto,500,No,weather,Yes,,,,,,10,Rain,0
+V0266,22-09-2024,18:30,Chennai,Mount Road,Speeding,Truck,2000,Yes,weather,Yes,,,,,,19,Clear,46
+V0267,23-09-2024,23:47,Delhi,Ring Road,Signal Jump,Car,1500,No,weather,Yes,,,,,,35,Clear,0
+V0268,24-09-2024,20:55,Chennai,Anna Salai,No Helmet,Auto,500,No,weather,Yes,,,,,,18,Fog,0
+V0269,25-09-2024,14:44,Delhi,Outer Ring Road,Wrong Side,Car,1000,No,weather,No,,,,,,37,Rain,30
+V0270,26-09-2024,01:54,Hyderabad,Mehdipatnam Road,Speeding,Bus,2000,No,weather,No,,,,,,26,Clear,47
+V0271,27-09-2024,04:41,Delhi,MG Road,Speeding,Car,2000,Yes,weather,No,,,,,,25,Clear,0
+V0272,28-09-2024,13:59,Chennai,Anna Salai,Speeding,Bus,2000,No,weather,Yes,,,,,,19,Fog,0
+V0273,29-09-2024,06:48,Chennai,Anna Salai,Speeding,Bike,2000,Yes,weather,Yes,,,,,,13,Fog,0
+V0274,30-09-2024,01:09,Hyderabad,Mehdipatnam Road,No Helmet,Truck,500,No,weather,No,,,,,,13,Rain,0
+V0275,01-10-2024,02:57,Mumbai,SV Road,No Helmet,Car,500,No,weather,Yes,,,,,,29,Rain,0
+V0276,02-10-2024,19:36,Chennai,Mount Road,Wrong Side,Bus,1000,No,weather,No,,,,,,20,Fog,0
+V0277,03-10-2024,14:22,Bengaluru,Outer Ring Road,Drunk Driving,Bike,10000,No,weather,No,,,,,,10,Fog,31
+V0278,04-10-2024,22:01,Hyderabad,ORR Hyderabad,No Helmet,Bike,500,Yes,weather,Yes,,,,,,28,Clear,27
+V0279,05-10-2024,17:28,Delhi,GT Road,Speeding,Auto,2000,No,weather,No,,,,,,16,Fog,0
+V0280,06-10-2024,09:27,Chennai,OMR Road,Signal Jump,Auto,1500,No,weather,Yes,,,,,,30,Rain,0
+V0281,07-10-2024,21:25,Hyderabad,ORR Hyderabad,Drunk Driving,Bike,10000,No,weather,Yes,,,,,,18,Rain,0
+V0282,08-10-2024,06:35,Bengaluru,Silk Board Junction,Drunk Driving,Auto,10000,No,weather,Yes,,,,,,26,Rain,0
+V0283,09-10-2024,19:02,Bengaluru,Outer Ring Road,Signal Jump,Bike,1500,Yes,weather,No,,,,,,38,Clear,0
+V0284,10-10-2024,23:26,Delhi,Ring Road,Speeding,Car,2000,Yes,weather,No,,,,,,32,Clear,33
+V0285,11-10-2024,00:36,Chennai,Mount Road,No Helmet,Car,500,No,weather,Yes,A0285,High,3,Clear,0,17,Rain,0
+V0286,12-10-2024,04:50,Mumbai,SV Road,Drunk Driving,Bike,10000,Yes,weather,Yes,A0286,Medium,1,Fog,0,19,Rain,0
+V0287,13-10-2024,16:35,Mumbai,Western Express Highway,Wrong Side,Bike,1000,No,weather,Yes,,,,,,11,Rain,0
+V0288,14-10-2024,00:01,Bengaluru,Outer Ring Road,No Helmet,Bus,500,Yes,weather,No,,,,,,27,Rain,0
+V0289,15-10-2024,14:24,Mumbai,SV Road,Signal Jump,Bike,1500,Yes,weather,No,,,,,,27,Clear,0
+V0290,16-10-2024,02:19,Hyderabad,Hitech City Road,Speeding,Truck,2000,No,weather,No,,,,,,34,Clear,0
+V0291,17-10-2024,23:45,Hyderabad,Mehdipatnam Road,Drunk Driving,Car,10000,Yes,weather,No,,,,,,38,Fog,0
+V0292,18-10-2024,19:45,Mumbai,Western Express Highway,Wrong Side,Bike,1000,No,weather,Yes,,,,,,32,Fog,0
+V0293,19-10-2024,09:35,Hyderabad,ORR Hyderabad,Signal Jump,Auto,1500,Yes,weather,Yes,,,,,,34,Fog,36
+V0294,20-10-2024,13:12,Mumbai,SV Road,Drunk Driving,Car,10000,No,weather,Yes,A0294,High,4,Rain,3,28,Clear,0
+V0295,21-10-2024,14:09,Delhi,Ring Road,No Seatbelt,Bike,1000,No,weather,Yes,,,,,,27,Fog,0
+V0296,22-10-2024,14:38,Delhi,Ring Road,No Seatbelt,Bus,1000,Yes,weather,Yes,,,,,,22,Fog,0
+V0297,23-10-2024,04:34,Bengaluru,Silk Board Junction,No Helmet,Bus,500,Yes,weather,No,,,,,,18,Clear,0
+V0298,24-10-2024,13:36,Delhi,GT Road,Wrong Side,Car,1000,No,weather,Yes,,,,,,20,Clear,0
+V0299,25-10-2024,08:13,Hyderabad,Mehdipatnam Road,No Helmet,Bus,500,Yes,weather,Yes,,,,,,31,Fog,0
+V0300,26-10-2024,09:23,Hyderabad,Hitech City Road,Signal Jump,Bus,1500,Yes,weather,No,,,,,,34,Fog,0
+V0301,27-10-2024,01:28,Mumbai,Western Express Highway,No Seatbelt,Truck,1000,No,weather,Yes,,,,,,19,Rain,0
+V0302,28-10-2024,23:59,Hyderabad,Hitech City Road,No Helmet,Bus,500,No,weather,No,,,,,,11,Fog,0
+V0303,29-10-2024,21:45,Hyderabad,Hitech City Road,Wrong Side,Bus,1000,No,weather,Yes,,,,,,36,Fog,0
+V0304,30-10-2024,05:57,Chennai,Mount Road,No Seatbelt,Car,1000,No,weather,Yes,,,,,,33,Rain,0
+V0305,31-10-2024,21:44,Chennai,Anna Salai,Signal Jump,Bike,1500,Yes,weather,Yes,,,,,,19,Rain,37
+V0306,01-11-2024,02:13,Delhi,MG Road,No Helmet,Auto,500,Yes,weather,Yes,,,,,,19,Fog,0
+V0307,02-11-2024,19:32,Chennai,OMR Road,Speeding,Truck,2000,Yes,weather,No,,,,,,30,Rain,2
+V0308,03-11-2024,05:41,Hyderabad,ORR Hyderabad,Speeding,Bus,2000,Yes,weather,Yes,,,,,,28,Clear,46
+V0309,04-11-2024,19:02,Bengaluru,Outer Ring Road,Signal Jump,Bus,1500,No,weather,No,,,,,,21,Rain,0
+V0310,05-11-2024,01:18,Delhi,Outer Ring Road,No Seatbelt,Car,1000,Yes,weather,Yes,,,,,,37,Fog,0
+V0311,06-11-2024,03:49,Chennai,Mount Road,No Seatbelt,Auto,1000,No,weather,Yes,,,,,,10,Rain,0
+V0312,07-11-2024,03:13,Delhi,Ring Road,Wrong Side,Bike,1000,No,weather,Yes,,,,,,36,Rain,0
+V0313,08-11-2024,20:10,Hyderabad,Hitech City Road,Signal Jump,Truck,1500,Yes,weather,No,,,,,,31,Fog,0
+V0314,09-11-2024,14:12,Mumbai,Western Express Highway,No Seatbelt,Bike,1000,Yes,weather,No,,,,,,33,Clear,0
+V0315,10-11-2024,05:19,Mumbai,Western Express Highway,Drunk Driving,Auto,10000,Yes,weather,No,,,,,,21,Fog,0
+V0316,11-11-2024,11:26,Bengaluru,Whitefield Road,Speeding,Car,2000,Yes,weather,Yes,,,,,,16,Rain,0
+V0317,12-11-2024,07:59,Delhi,GT Road,No Helmet,Truck,500,No,weather,Yes,,,,,,22,Fog,0
+V0318,13-11-2024,04:31,Delhi,Outer Ring Road,No Seatbelt,Truck,1000,No,weather,Yes,,,,,,28,Clear,0
+V0319,14-11-2024,14:33,Hyderabad,ORR Hyderabad,No Helmet,Bike,500,No,weather,Yes,,,,,,21,Clear,0
+V0320,15-11-2024,11:46,Hyderabad,Mehdipatnam Road,Wrong Side,Car,1000,No,weather,Yes,,,,,,34,Rain,0
+V0321,16-11-2024,16:19,Delhi,Ring Road,Wrong Side,Truck,1000,Yes,weather,Yes,,,,,,36,Clear,0
+V0322,17-11-2024,05:53,Chennai,Anna Salai,No Seatbelt,Bike,1000,Yes,weather,No,,,,,,38,Fog,0
+V0323,18-11-2024,02:12,Mumbai,Western Express Highway,Signal Jump,Auto,1500,No,weather,Yes,,,,,,24,Clear,0
+V0324,19-11-2024,05:42,Bengaluru,Whitefield Road,No Seatbelt,Auto,1000,No,weather,No,,,,,,24,Clear,0
+V0325,20-11-2024,12:01,Delhi,GT Road,No Helmet,Bus,500,Yes,weather,No,,,,,,17,Fog,43
+V0326,21-11-2024,05:58,Delhi,GT Road,No Seatbelt,Truck,1000,No,weather,No,,,,,,13,Rain,19
+V0327,22-11-2024,03:08,Chennai,Mount Road,Speeding,Bike,2000,No,weather,Yes,,,,,,20,Clear,0
+V0328,23-11-2024,10:51,Delhi,Ring Road,Wrong Side,Truck,1000,No,weather,No,,,,,,22,Clear,0
+V0329,24-11-2024,06:59,Chennai,Mount Road,Signal Jump,Bike,1500,No,weather,No,,,,,,13,Rain,5
+V0330,25-11-2024,12:04,Mumbai,Link Road,Wrong Side,Bus,1000,Yes,weather,Yes,,,,,,10,Rain,0
+V0331,26-11-2024,06:50,Delhi,GT Road,Wrong Side,Auto,1000,Yes,weather,No,,,,,,15,Rain,0
+V0332,27-11-2024,17:58,Chennai,OMR Road,No Helmet,Bike,500,No,weather,No,,,,,,37,Fog,0
+V0333,28-11-2024,13:35,Mumbai,SV Road,Wrong Side,Truck,1000,Yes,weather,No,,,,,,33,Fog,0
+V0334,29-11-2024,10:11,Chennai,Anna Salai,Speeding,Auto,2000,No,weather,No,,,,,,26,Clear,0
+V0335,30-11-2024,19:36,Mumbai,SV Road,Drunk Driving,Truck,10000,No,weather,Yes,,,,,,29,Rain,0
+V0336,01-12-2024,22:18,Hyderabad,ORR Hyderabad,Speeding,Bike,2000,Yes,weather,Yes,,,,,,36,Rain,0
+V0337,02-12-2024,20:11,Bengaluru,Silk Board Junction,No Seatbelt,Truck,1000,Yes,weather,No,,,,,,15,Fog,0
+V0338,03-12-2024,17:09,Delhi,Outer Ring Road,No Helmet,Bus,500,No,weather,No,,,,,,23,Fog,0
+V0339,04-12-2024,22:03,Mumbai,Link Road,Signal Jump,Truck,1500,No,weather,Yes,,,,,,31,Rain,0
+V0340,05-12-2024,03:51,Chennai,Mount Road,No Helmet,Car,500,Yes,weather,Yes,,,,,,35,Clear,0
+V0341,06-12-2024,07:59,Delhi,MG Road,No Helmet,Truck,500,Yes,weather,Yes,,,,,,29,Rain,0
+V0342,07-12-2024,08:04,Chennai,OMR Road,Drunk Driving,Truck,10000,Yes,weather,Yes,,,,,,34,Clear,0
+V0343,08-12-2024,03:17,Hyderabad,Mehdipatnam Road,Drunk Driving,Car,10000,No,weather,No,,,,,,11,Clear,47
+V0344,09-12-2024,17:56,Chennai,OMR Road,No Seatbelt,Bus,1000,No,weather,Yes,,,,,,19,Rain,0
+V0345,10-12-2024,16:35,Chennai,OMR Road,No Seatbelt,Bus,1000,Yes,weather,No,,,,,,36,Fog,0
+V0346,11-12-2024,09:03,Mumbai,Western Express Highway,Signal Jump,Auto,1500,No,weather,Yes,,,,,,32,Clear,0
+V0347,12-12-2024,06:14,Hyderabad,ORR Hyderabad,Wrong Side,Car,1000,Yes,weather,No,,,,,,27,Fog,0
+V0348,13-12-2024,11:13,Mumbai,Western Express Highway,No Seatbelt,Bus,1000,No,weather,No,,,,,,19,Fog,0
+V0349,14-12-2024,13:23,Bengaluru,Silk Board Junction,Drunk Driving,Truck,10000,Yes,weather,Yes,A0349,Medium,4,Rain,3,11,Clear,27
+V0350,15-12-2024,21:27,Bengaluru,Silk Board Junction,Speeding,Bus,2000,Yes,weather,No,,,,,,18,Fog,0
+V0351,16-12-2024,00:16,Hyderabad,ORR Hyderabad,No Helmet,Bike,500,Yes,weather,Yes,,,,,,11,Rain,0
+V0352,17-12-2024,13:01,Delhi,Outer Ring Road,No Helmet,Bus,500,No,weather,No,,,,,,27,Rain,0
+V0353,18-12-2024,13:19,Hyderabad,Hitech City Road,Speeding,Auto,2000,No,weather,No,A0353,High,4,Rain,3,11,Fog,0
+V0354,19-12-2024,10:31,Bengaluru,Whitefield Road,Speeding,Bike,2000,No,weather,Yes,,,,,,30,Clear,0
+V0355,20-12-2024,23:11,Chennai,OMR Road,Signal Jump,Bus,1500,No,weather,No,A0355,Medium,2,Fog,3,30,Clear,0
+V0356,21-12-2024,06:25,Hyderabad,Hitech City Road,Wrong Side,Car,1000,No,weather,No,,,,,,10,Rain,0
+V0357,22-12-2024,12:10,Mumbai,Link Road,No Seatbelt,Bike,1000,Yes,weather,No,,,,,,28,Fog,0
+V0358,23-12-2024,06:33,Mumbai,Western Express Highway,Signal Jump,Auto,1500,Yes,weather,Yes,,,,,,15,Clear,0
+V0359,24-12-2024,07:53,Delhi,Outer Ring Road,No Helmet,Bike,500,No,weather,No,,,,,,27,Rain,15
+V0360,25-12-2024,18:18,Hyderabad,Mehdipatnam Road,No Helmet,Auto,500,Yes,weather,Yes,,,,,,20,Rain,0
+V0361,26-12-2024,13:59,Hyderabad,ORR Hyderabad,Wrong Side,Truck,1000,No,weather,Yes,,,,,,10,Fog,0
+V0362,27-12-2024,01:59,Chennai,OMR Road,Wrong Side,Car,1000,Yes,weather,Yes,,,,,,37,Clear,9
+V0363,28-12-2024,21:01,Delhi,MG Road,Drunk Driving,Car,10000,Yes,weather,Yes,,,,,,13,Fog,0
+V0364,29-12-2024,03:03,Delhi,MG Road,No Seatbelt,Bus,1000,No,weather,No,,,,,,38,Rain,28
+V0365,30-12-2024,07:40,Mumbai,Western Express Highway,No Helmet,Bike,500,Yes,weather,Yes,,,,,,18,Clear,0
+V0366,31-12-2024,15:52,Delhi,GT Road,Drunk Driving,Car,10000,No,weather,No,,,,,,27,Fog,0
+,,,,,,,,,weather,,,,,,,,,
